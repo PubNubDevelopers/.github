@@ -1,4 +1,4 @@
-# PubNub Developers
+![PubNub Developers](https://github.com/pubnubdevelopers/.github/blob/main/profile/banner.png) 
 
 The repositories in this GitHub account house demos and samples, for use as resources for PubNub developers.  If you have any comments or questions, please email [devrel@pubnub.com](devrel@pubnub.com).
 
