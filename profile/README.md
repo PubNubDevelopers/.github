@@ -4,11 +4,11 @@ The repositories in this GitHub account house demos and samples, for use as reso
 
 ## What is PubNub? 
 
-PubNub allows you to build, manage & optimize real-time apps.  We provide a single platform to build any combination of real-time features, including chat, live audience engagement, multi-user collaboration, device control, data streaming, and geolocation /dispatch - all managed and monitored from a single dashboard.
+Our platform helps developers build, deliver, and manage real-time interactivity for web apps, mobile apps, and IoT devices.
 
-### Infinitely Scalable
+Whether businesses need in-app or in-game chat, live audience engagement, multi-user collaboration, or any other form of real-time functionality, we help bring it to life with our suite of purpose-built real-time APIs, SDKs, Solution Kits, integrations and analytics.
 
-Our global network of Points of Presence (PoPs) provide huge scale, 99.999% SLAs, regional compliance, and redundancy to ensure every user and device gets quick real-time experiences.
+The foundation of our platform is the industry’s largest and most scalable real-time edge messaging network. With over 15 points-of-presence worldwide supporting 800 million monthly active users, and 99.999% reliability, you’ll never have to worry about outages, concurrency limits, or any latency issues caused by traffic spikes.
 
 ## Experience PubNub
 
