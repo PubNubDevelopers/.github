@@ -16,7 +16,7 @@ Check out [Live Tour](https://www.pubnub.com/tour/introduction/) to understand t
 
 ## Get Setup
 
-Sign up for a [PubNub account](https://admin.pubnub.com/signup/) for immediate access to PubNub keys for free
+Sign up for a [PubNub account](https://admin.pubnub.com/) for immediate access to PubNub keys for free
 
 ## Get Started
 
